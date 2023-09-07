@@ -1,0 +1,18 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  border: 2px solid greenyellow;
+  text-align: center;
+  background-color: black;
+  color: lightskyblue;
+}
+
+h2 {
+  color: orangered;
+}
